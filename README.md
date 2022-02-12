@@ -19,7 +19,7 @@ Enter CGPA :
 Enter roll no : 
 102
 Enter Name : 
-Vishal
+Athulya
 Enter Phone no : 
 74836583
 Enter age : 
@@ -29,7 +29,7 @@ Enter CGPA :
 Enter roll no : 
 103
 Enter Name : 
-Shiwine
+Athira
 Enter Phone no : 
 934857362 
 Enter age : 
@@ -39,7 +39,7 @@ Enter CGPA :
 Enter roll no : 
 105
 Enter Name : 
-Akhil
+Achu
 Enter Phone no : 
 23847829
 Enter age : 
@@ -59,7 +59,7 @@ Enter CGPA :
 Enter roll no : 
 108
 Enter Name : 
-Leo
+Lechu
 Enter Phone no : 
 2378348
 Enter age : 
@@ -69,7 +69,7 @@ Enter CGPA :
 Enter roll no : 
 109
 Enter Name : 
-Sajad
+Devi
 Enter Phone no : 
 8473929
 Enter age : 
@@ -79,7 +79,7 @@ Enter CGPA :
 Enter roll no : 
 110
 Enter Name : 
-Vasim
+Vyshnavi
 Enter Phone no : 
 2384983 
 Enter age : 
@@ -89,7 +89,7 @@ Enter CGPA :
 Enter roll no : 
 111
 Enter Name : 
-Alan
+Jomon
 Enter Phone no : 
 3284929
 Enter age : 
